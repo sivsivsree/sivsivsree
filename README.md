@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 <!--
-**sivsivsree/sivsivsree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sivsivsree/sivsivsree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub Profile.
 
 Here are some ideas to get you started:
 
