@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=sivsivsree&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=30,e96443,904e95&count_private=true&include_all_commits=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=sivsivsree&show_icons=true&title_color=000&icon_color=fff&text_color=999&bg_color=fff&count_private=true&include_all_commits=true&layout=compact">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sivsivsree&style=flat-square&label=PV+%20)
 <!--
